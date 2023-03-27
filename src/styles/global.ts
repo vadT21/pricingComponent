@@ -9,8 +9,8 @@ export default createGlobalStyle`
     html, body {
       min-height: 100vh;
       background-color: hsl(240, 78%, 98%);
-      background-image:  url('/bg-top.svg'),
-       url('/bg-bottom.svg');
+      background-image:  url('bg-top.svg'),
+       url('bg-bottom.svg'); 
       background-repeat: no-repeat;
       background-position: right top, left bottom;
       @media (max-width: 515px) {

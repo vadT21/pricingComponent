@@ -14,7 +14,7 @@ const useDataStore = create<IDataStore>((set) => ({
   fetchData: async () => {
     try {
       set({ isLoading: true });
-      const response: AxiosResponse<IDataItem> = await axios.get("/data.json");
+      const response: AxiosResponse<IDataItem> = await axios.get("data.json");
       console.log(response);
       set({ data: response.data, isLoading: false });
     } catch (error) {
