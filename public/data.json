@@ -1,0 +1,34 @@
+{
+  "pricing": [
+    {
+      "name": "Basic",
+      "price": {
+        "annually": 199.99,
+        "monthly": 19.99
+      },
+      "storage": 500,
+      "users": 2,
+      "sendup": 3
+    },
+    {
+      "name": "Professional",
+      "price": {
+        "annually": 249.99,
+        "monthly": 24.99
+      },
+      "storage": 1000,
+      "users": 5,
+      "sendup": 10
+    },
+    {
+      "name": "Master",
+      "price": {
+        "annually": 399.99,
+        "monthly": 39.99
+      },
+      "storage": 2000,
+      "users": 10,
+      "sendup": 20
+    }
+  ]
+}
