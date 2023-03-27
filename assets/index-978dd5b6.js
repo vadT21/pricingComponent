@@ -201,8 +201,8 @@ Error generating stack: `+i.message+`
     html, body {
       min-height: 100vh;
       background-color: hsl(240, 78%, 98%);
-      background-image:  url('assets/bg-top.svg'),
-       url('assets/bg-bottom.svg');
+      background-image:  url('/assets/bg-top.svg'),
+       url('/assets/bg-bottom.svg');
       background-repeat: no-repeat;
       background-position: right top, left bottom;
       @media (max-width: 515px) {
