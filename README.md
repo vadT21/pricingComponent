@@ -1,6 +1,6 @@
-# Frontend Mentor - Pricing component with toggle
+The result: https://vadt21.github.io/pricingComponent/
 
-![Design preview for the Pricing component with toggle coding challenge](./design/desktop-preview.jpg)
+# Frontend Mentor - Pricing component with toggle
 
 ## Welcome! 👋
 
